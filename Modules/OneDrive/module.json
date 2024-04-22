@@ -1,0 +1,13 @@
+{
+    "name": "OneDrive",
+    "alias": "Onedrive",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "version":3.2,
+    "providers": [
+        "Modules\\OneDrive\\Providers\\OneDriveServiceProvider",
+        "Modules\\OneDrive\\Providers\\AddHookServiceProvider"
+    ],
+    "files": []
+}
